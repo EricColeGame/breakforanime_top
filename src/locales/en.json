@@ -6,7 +6,14 @@
     "description": "Your ultimate guide to Break For Anime on Roblox! Explore active codes, lucky blocks, anime characters, RNG mechanics, tools, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "codes": "Codes",
+    "characters": "Characters",
+    "tips": "Tips"
+  },
   "home": {
     "meta": {
       "title": "Break For Anime Wiki - Codes, Anime & RNG Guide",
@@ -72,31 +79,31 @@
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Everything you need from your first login to breaking blocks and building your base.",
-          "href": "/beginner-guide"
+          "href": "/guide/break-for-anime-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
           "description": "All working Break For Anime codes with rewards and redemption steps.",
-          "href": "/codes"
+          "href": "/codes/break-for-anime-codes"
         },
         {
           "badge": "Updated",
           "title": "Anime Collection",
           "description": "Full anime character index with drop rates, rarities, and cash income stats.",
-          "href": "/anime-collection"
+          "href": "/characters/break-for-anime-anime-collection"
         },
         {
           "badge": "Popular",
           "title": "Tools & Pickaxes Guide",
           "description": "Compare every tool tier to maximize block breaking efficiency and speed.",
-          "href": "/tools"
+          "href": "/mechanics/break-for-anime-tools"
         },
         {
           "badge": "Popular",
           "title": "Money & AFK Farming",
           "description": "Optimal strategies and layout setups to maximize your passive income.",
-          "href": "/money-guide"
+          "href": "/guide/break-for-anime-how-to-get-money"
         },
         {
           "badge": "New",
@@ -375,7 +382,6 @@
       "secondary": "Browse Guides"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -411,5 +417,29 @@
     "buildGuide": "RNG Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Break For Anime Beginner & Gameplay Guides",
+    "overviewDescription": "Comprehensive walkthroughs and beginner guides for Break For Anime. Learn how to play, break lucky blocks, earn money, and unlock legendary anime characters."
+  },
+  "mechanics": {
+    "overviewTitle": "Break For Anime Core Mechanics & Systems",
+    "overviewDescription": "Detailed analysis of Break For Anime core systems: lucky block RNG, tool upgrades, pickaxe stats, anime placement rules, and cash generation formulas."
+  },
+  "progression": {
+    "overviewTitle": "Break For Anime Progression & Base Expansion",
+    "overviewDescription": "Strategic progression guides for expanding your base, uncovering secret characters, tracking rare anime drops, and completing your full anime index."
+  },
+  "codes": {
+    "overviewTitle": "Break For Anime Active Codes & Rewards",
+    "overviewDescription": "Stay updated with the latest working Break For Anime codes. Redeem active promo codes for free cash, luck boosts, spins, and exclusive rewards."
+  },
+  "characters": {
+    "overviewTitle": "Break For Anime Characters & Roster Database",
+    "overviewDescription": "Complete anime character directory for Break For Anime. Explore anime rarities, waifus, legendary anime drops, multipliers, and collection bonuses."
+  },
+  "tips": {
+    "overviewTitle": "Break For Anime Tips, Tricks & Fast Progress",
+    "overviewDescription": "Master Break For Anime with advanced tips: optimize idle cash flow, maximize gacha luck, manage rebirth strategies, and speedrun your base expansion."
   }
 }
