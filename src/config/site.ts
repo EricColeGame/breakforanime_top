@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Break For Anime Wiki",
+  shortName: "Break For Anime",
+  logoText: "BFA",
+  tagline: "Break Lucky Blocks, Anime RNG & Collection Guide",
+  description: "Your ultimate guide to Break For Anime on Roblox! Explore active codes, lucky blocks, anime characters, RNG mechanics, tools, and progression guides.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://breakforanime.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://breakforanime.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/83337738588990/Break-For-Anime",
+  heroVideoId: "9ctoiUZ_uvI", // Roblox Break For Anime gameplay showcase
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
