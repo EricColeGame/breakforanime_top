@@ -1,1 +1,431 @@
-{}
+{
+  "site": {
+    "name": "Break For Anime Wiki",
+    "shortName": "Break For Anime",
+    "tagline": "Guía Definitiva de Break For Anime, Códigos y Wiki RNG",
+    "description": "Tu centro de wiki para Break For Anime en Roblox. Encuentra los códigos más recientes, guías para principiantes, bloques de la suerte, colección de anime y consejos.",
+    "legalNotice": "Sitio de fans no oficial. No afiliado con henric 2 ni Roblox."
+  },
+  "nav": {
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "codes": "Códigos",
+    "characters": "Personajes",
+    "tips": "Consejos"
+  },
+  "home": {
+    "meta": {
+      "title": "Break For Anime Wiki y Códigos - Guías de Lucky Block RNG en Roblox",
+      "description": "Centro completo de Break For Anime en Roblox: códigos activos, guías de bloques de la suerte, herramientas, colecciones de anime y consejos para farmear dinero."
+    },
+    "hero": {
+      "eyebrow": "Break For Anime Wiki Oficial de Fans",
+      "title": "Rompe Bloques, Desbloquea Anime y Domina la Suerte RNG",
+      "description": "Tu recurso completo para Break For Anime en Roblox. Consulta códigos activos, domina el farmeo de dinero, desbloquea personajes legendarios y optimiza tu base.",
+      "stats": [
+        "Base de Datos Completa de Anime",
+        "Códigos Activos Verificados",
+        "Rutas de Farmeo de Dinero",
+        "Estrategias de Herramientas y Mejoras"
+      ],
+      "primaryCta": "Explorar Guías",
+      "secondaryCta": "Códigos de Regalo",
+      "tertiaryCta": "Active Codes",
+      "videoLabel": "Official media",
+      "playCta": "Jugar en Roblox"
+    },
+    "updates": {
+      "title": "Actualizaciones Recientes y Guías",
+      "browse": "Navegar Todo",
+      "viewAll": "Ver Todas las Guías"
+    },
+    "start": {
+      "eyebrow": "Comenzar",
+      "title": "Inicio Rápido para Nuevos Jugadores",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Guía para Principiantes",
+          "description": "Aprende el bucle básico de romper bloques, ganar tus primeros dólares y colocar tus personajes de anime."
+        },
+        {
+          "number": "02",
+          "title": "Herramientas y Mejoras",
+          "description": "Mejora tus herramientas para romper bloques con mayor rapidez y multiplicar tus ganancias por clic."
+        },
+        {
+          "number": "03",
+          "title": "Rutas de Farmeo de Dinero",
+          "description": "Descubre las formas más eficientes de generar ingresos automáticos colocando tus mejores figuras de anime."
+        },
+        {
+          "number": "04",
+          "title": "Anime Raro y Legendario",
+          "description": "Estrategias de giros de suerte y probabilidad RNG para obtener waifus y personajes secretos raros."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Artículos Populares",
+      "title": "Guías Esenciales de Break For Anime",
+      "quickLinks": [
+        "Guía de Inicio",
+        "Códigos Activos",
+        "Personajes Secretos",
+        "Herramientas"
+      ],
+      "cards": [
+        {
+          "badge": "Guía",
+          "title": "Guía de Inicio de Break For Anime",
+          "description": "Todo lo que necesitas saber desde tu primer clic: romper bloques, recolectar dinero y primeros personajes.",
+          "href": "/guide/break-for-anime-beginner-guide"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Códigos Actualizados de Break For Anime",
+          "description": "Canjea giros de la suerte y dinero gratis con los códigos activos verificados más recientes del juego.",
+          "href": "/codes/break-for-anime-codes"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Guía Completa de Bloques de la Suerte",
+          "description": "Conoce los diferentes tipos de bloques de la suerte, sus probabilidades de caída y cómo abrirlos más rápido.",
+          "href": "/mechanics/break-for-anime-lucky-blocks"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Personajes Secretos y Legendarios",
+          "description": "Cómo desbloquear los personajes de anime más raros y poderosos para acelerar tu progreso.",
+          "href": "/progression/break-for-anime-secret-characters"
+        },
+        {
+          "badge": "Consejos",
+          "title": "Estrategias de Farmeo Rápido de Dinero",
+          "description": "Maximiza tus ganancias inactivas y activas combinando mejores herramientas con personajes de alto nivel.",
+          "href": "/tips/break-for-anime-idle-cash"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Herramientas y Mejoras de Daño",
+          "description": "Guía detallada de cada nivel de herramienta, su costo de compra y velocidad de rotura de bloques.",
+          "href": "/mechanics/break-for-anime-tools"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Acerca de Break For Anime",
+      "paragraphs": [
+        "Break For Anime es un popular simulador RNG de bloques de la suerte en Roblox desarrollado por henric 2. Los jugadores rompen bloques de la suerte para ganar dinero y desbloquear una amplia variedad de figuras de personajes de anime.",
+        "Coloca tus personajes coleccionados en tu base para generar ingresos pasivos continuos, adquiere herramientas más poderosas para romper bloques más rápido y gira en busca de personajes legendarios y secretos."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "henric 2"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "ID de Place",
+          "value": "127519525950247"
+        },
+        {
+          "label": "Género",
+          "value": "RNG / Simulador"
+        },
+        {
+          "label": "Personajes",
+          "value": "50+ Figuras"
+        },
+        {
+          "label": "Mecánica Central",
+          "value": "Bloques de la Suerte"
+        }
+      ],
+      "cta": "Jugar en Roblox"
+    },
+    "explore": {
+      "title": "Módulos de Juego y Guías Temáticas",
+      "description": "Explora todas las facetas de Break For Anime con nuestras guías estructuradas por mecánicas y sistemas de juego.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guías de Inicio de breakforanime",
+          "description": "Comienza tu viaje en Break For Anime con guías completas paso a paso para nuevos jugadores.",
+          "href": "/guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "step": 1,
+              "title": "Bucle Básico",
+              "desc": "Rompe bloques para conseguir dinero."
+            },
+            {
+              "step": 2,
+              "title": "Colecciona Anime",
+              "desc": "Desbloquea personajes raros."
+            },
+            {
+              "step": 3,
+              "title": "Coloca Figuras",
+              "desc": "Genera ingresos automáticos."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Regalo de breakforanime",
+          "description": "Lista actualizada de códigos activos para reclamar recompensas gratuitas y giros de la suerte.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "code": "RELEASE",
+              "reward": "Dinero Inicial Gratis"
+            },
+            {
+              "code": "ANIME",
+              "reward": "Giro de la Suerte Gratuito"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mecánicas de Bloques de breakforanime",
+          "description": "Conoce a fondo los tipos de bloques de la suerte, su dureza y recompensas al romperlos.",
+          "href": "/mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Basic",
+              "detail": "Bloques básicos con recompensas iniciales."
+            },
+            {
+              "label": "Golden",
+              "detail": "Mayor probabilidad de personajes raros."
+            },
+            {
+              "label": "Diamond",
+              "detail": "Recompensas masivas y personajes legendarios."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Progresión y Renacimiento de breakforanime",
+          "description": "Sistemas de progresión a largo plazo, renacimiento y desbloqueo de zonas avanzadas.",
+          "href": "/progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "step": 1,
+              "title": "Mejora Herramientas",
+              "desc": "Aumenta la velocidad de rotura."
+            },
+            {
+              "step": 2,
+              "title": "Amplía tu Base",
+              "desc": "Coloca más figuras simultáneamente."
+            },
+            {
+              "step": 3,
+              "title": "Renacimiento",
+              "desc": "Multiplica tus ganancias permanentes."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Colección de Personajes de breakforanime",
+          "description": "Índice completo de todas las figuras de anime disponibles, rarezas y multiplicadores de dinero.",
+          "href": "/characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "tier": "Secret",
+              "info": "Máximo multiplicador de ingresos pasivos."
+            },
+            {
+              "tier": "Legendary",
+              "info": "Generación de dinero extremadamente alta."
+            },
+            {
+              "tier": "Epic",
+              "info": "Excelente rendimiento para juego medio."
+            },
+            {
+              "tier": "Common",
+              "info": "Figuras iniciales para empezar la base."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Herramientas y Armas de breakforanime",
+          "description": "Catálogo completo de herramientas para romper bloques, costos de mejora y daño por segundo.",
+          "href": "/mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wooden",
+              "detail": "Herramienta inicial con daño básico."
+            },
+            {
+              "label": "Iron",
+              "detail": "Velocidad mejorada para bloques estándar."
+            },
+            {
+              "label": "Diamond",
+              "detail": "Alta velocidad para bloques dorados."
+            },
+            {
+              "label": "Laser",
+              "detail": "Rotura casi instantánea de bloques avanzados."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Consejos y Estrategias de breakforanime",
+          "description": "Optimiza tu tiempo de juego y alcanza la cima de las tablas de clasificación más rápido.",
+          "href": "/tips",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "step": 1,
+              "title": "Farmeo Inactivo",
+              "desc": "Deja tus mejores figuras trabajando."
+            },
+            {
+              "step": 2,
+              "title": "Prioriza Mejoras",
+              "desc": "Invierte en herramientas antes que en cosméticos."
+            },
+            {
+              "step": 3,
+              "title": "Eventos de Suerte",
+              "desc": "Aprovecha multiplicadores de servidores."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Farmeo de Dinero de breakforanime",
+          "description": "Guía avanzada sobre cómo optimizar la generación de ingresos activos y pasivos.",
+          "href": "/tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Active",
+              "detail": "Romper bloques continuamente con herramientas de alta gama."
+            },
+            {
+              "label": "Passive",
+              "detail": "Colocación óptima de figuras en la base."
+            },
+            {
+              "label": "Codes",
+              "detail": "Reclamar códigos para impulsos temporales de dinero."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre Break For Anime",
+      "description": "Respuestas a las dudas más habituales sobre Break For Anime en Roblox.",
+      "items": [
+        {
+          "question": "¿De qué trata Break For Anime en Roblox?",
+          "answer": "Break For Anime es un juego de Roblox donde rompes bloques de la suerte para ganar dinero y conseguir figuras de personajes de anime que luego puedes colocar en tu base para obtener ingresos pasivos."
+        },
+        {
+          "question": "¿Cómo se canjean los códigos en Break For Anime?",
+          "answer": "Abre el juego en Roblox, busca el icono de códigos o configuración en la pantalla, escribe el código activo y presiona Canjear para recibir tus recompensas instantáneamente."
+        },
+        {
+          "question": "¿Cuál es la forma más rápida de ganar dinero en Break For Anime?",
+          "answer": "La estrategia más efectiva es mejorar tu herramienta tan pronto como puedas y colocar tus personajes de anime con mayor multiplicador en tu base para acumular dinero inactivo."
+        },
+        {
+          "question": "¿Cómo consigo personajes de anime raros y secretos en Break For Anime?",
+          "answer": "Los personajes raros se obtienen abriendo bloques de la suerte de mayor nivel y aprovechando los giros de suerte o multiplicadores de eventos dentro del juego."
+        },
+        {
+          "question": "¿Qué beneficios otorga el renacimiento en Break For Anime?",
+          "answer": "El renacimiento restablece tu dinero pero te concede un multiplicador permanente para todas tus ganancias futuras, permitiéndote progresar mucho más rápido en las siguientes rondas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Break For Anime?",
+      "description": "Únete a miles de jugadores, rompe bloques de la suerte y colecciona los personajes más legendarios de Roblox.",
+      "primary": "Jugar en Roblox",
+      "secondary": "Ver Códigos Activos"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver Todos los Códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En Esta Sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer Más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "No hay guías disponibles en esta categoría por ahora."
+  },
+  "footer": {
+    "aboutTitle": "Break For Anime Wiki",
+    "about": "Break For Anime Wiki es una base de guías independiente creada por fans sobre bloques de la suerte, personajes de anime, mecánicas RNG, herramientas y estrategias de farmeo de dinero.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Break For Anime Wiki. No afiliado con henric 2 ni Roblox.",
+    "description": "Simulador Anime Lucky Block RNG en Roblox. Rompe bloques, colecciona anime raro y gana dinero.",
+    "playGame": "Jugar Break For Anime",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Guías de Juego",
+    "beginnerGuide": "Guía de Inicio",
+    "raceGuides": "Guía de Anime",
+    "bossGuides": "Herramientas y Mejoras",
+    "buildGuide": "Guía de RNG",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías de Break For Anime y Tutoriales de Inicio",
+    "overviewDescription": "Aprende a jugar a Break For Anime en Roblox con guías completas para principiantes, obtención de dinero y estrategias para conseguir tus primeros personajes."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Juego y Bloques de Break For Anime",
+    "overviewDescription": "Conoce todas las mecánicas centrales de Break For Anime: tipos de bloques de la suerte, velocidad de rotura, herramientas y colocación de personajes."
+  },
+  "progression": {
+    "overviewTitle": "Guías de Progresión y Colección de Break For Anime",
+    "overviewDescription": "Estrategias de progresión para expandir tu base, desbloquear figuras de anime raras y secretas y optimizar tu desarrollo a largo plazo."
+  },
+  "codes": {
+    "overviewTitle": "Códigos y Recompensas Gratis de Break For Anime",
+    "overviewDescription": "Lista verificada de códigos de regalo activos de Break For Anime. Canjea giros de la suerte y dinero gratis para acelerar tu partida."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Anime y Figuras de Break For Anime",
+    "overviewDescription": "Índice completo de personajes de anime, rarezas, waifus y figuras legendarias en Break For Anime en Roblox."
+  },
+  "tips": {
+    "overviewTitle": "Consejos, Trucos y Rutas de Farmeo de Break For Anime",
+    "overviewDescription": "Consejos avanzados para ganar dinero inactivo, acelerar tu progreso con renacimiento y maximizar tu suerte en las tiradas RNG."
+  }
+}

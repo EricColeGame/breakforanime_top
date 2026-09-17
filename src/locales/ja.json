@@ -1,1 +1,431 @@
-{}
+{
+  "site": {
+    "name": "Break For Anime Wiki",
+    "shortName": "Break For Anime",
+    "tagline": "Break For Anime 究極攻略・コード＆RNG Wiki",
+    "description": "RobloxのBreak For Anime攻略Wiki。最新コード、初心者ガイド、ラッキーブロック、アニメキャラ収集、お金稼ぎのコツをお届けします。",
+    "legalNotice": "非公式ファンサイトです。henric 2およびRobloxとは提携していません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "システム",
+    "progression": "進行",
+    "codes": "コード",
+    "characters": "キャラ",
+    "tips": "攻略のコツ"
+  },
+  "home": {
+    "meta": {
+      "title": "Break For Anime Wiki＆コード - Roblox ラッキーブロックRNG攻略",
+      "description": "RobloxのBreak For Anime総合攻略サイト：有効コード、ラッキーブロック攻略、ツール、アニメキャラ図鑑、放置お金稼ぎガイド。"
+    },
+    "hero": {
+      "eyebrow": "Break For Anime 公式ファンWiki",
+      "title": "ブロックを壊してアニメキャラを解放、RNGの運を極めよう",
+      "description": "Roblox『Break For Anime』の完全攻略リソース。有効コード確認、効率的なお金稼ぎ、伝説キャラの解放、拠点拡張まで完全網羅。",
+      "stats": [
+        "アニメキャラ完全図鑑",
+        "最新有効コード一覧",
+        "高効率お金稼ぎルート",
+        "ツール＆強化戦略"
+      ],
+      "primaryCta": "攻略ガイドを見る",
+      "secondaryCta": "ギフトコード",
+      "tertiaryCta": "Active Codes",
+      "videoLabel": "Official media",
+      "playCta": "Robloxでプレイ"
+    },
+    "updates": {
+      "title": "最新アップデートと攻略記事",
+      "browse": "すべて見る",
+      "viewAll": "全ガイド一覧"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "新規プレイヤー向けクイックスタート",
+      "cards": [
+        {
+          "number": "01",
+          "title": "初心者入門ガイド",
+          "description": "ブロックを壊してお金を稼ぎ、手に入れたアニメキャラを拠点に配置する基本サイクルを解説。"
+        },
+        {
+          "number": "02",
+          "title": "ツールとアップグレード",
+          "description": "ツールをアップグレードして破壊速度を高め、クリックごとの獲得キャッシュを増やしましょう。"
+        },
+        {
+          "number": "03",
+          "title": "お金稼ぎの最適ルート",
+          "description": "強力なアニメフィギュアを配置して自動で放置収入を生み出す最も効率的な方法。"
+        },
+        {
+          "number": "04",
+          "title": "レア＆レジェンダリーキャラ",
+          "description": "幸運スピンとRNG確率を活用して、人気ヒロインやシークレットキャラを効率的に引き当てるコツ。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気記事",
+      "title": "Break For Anime 必読攻略ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "有効コード一覧",
+        "シークレットキャラ",
+        "ツール一覧"
+      ],
+      "cards": [
+        {
+          "badge": "ガイド",
+          "title": "Break For Anime 初心者向け総合ガイド",
+          "description": "最初のクリックからブロック破壊、キャッシュ収集、初期キャラ獲得までの全知識。",
+          "href": "/guide/break-for-anime-beginner-guide"
+        },
+        {
+          "badge": "コード",
+          "title": "Break For Anime 最新有効コード一覧",
+          "description": "最新の動作確認済みコードで無料ラッキースピンとキャッシュを今すぐ獲得しましょう。",
+          "href": "/codes/break-for-anime-codes"
+        },
+        {
+          "badge": "システム",
+          "title": "ラッキーブロック完全解説ガイド",
+          "description": "各種ラッキーブロックの特徴、ドロップ確率、高速破壊テクニックを徹底解説。",
+          "href": "/mechanics/break-for-anime-lucky-blocks"
+        },
+        {
+          "badge": "進行",
+          "title": "シークレット＆伝説キャラ解放法",
+          "description": "最も希少で強力なアニメキャラクターを効率的に解放して進行速度を加速させる方法。",
+          "href": "/progression/break-for-anime-secret-characters"
+        },
+        {
+          "badge": "攻略のコツ",
+          "title": "効率的な放置お金稼ぎテクニック",
+          "description": "高ランクキャラの配置と強化ツールを組み合わせてアクティブ・放置収入を最大化。",
+          "href": "/tips/break-for-anime-idle-cash"
+        },
+        {
+          "badge": "システム",
+          "title": "ツール一覧と破壊ダメージ強化",
+          "description": "各ツールの購入コスト、ブロック破壊速度、アップグレード優先順位の詳細まとめ。",
+          "href": "/mechanics/break-for-anime-tools"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Break For Anime について",
+      "paragraphs": [
+        "『Break For Anime』は、henric 2が開発したRobloxの人気アニメ・ラッキーブロックRNGシミュレーターです。プレイヤーはラッキーブロックを破壊してお金を稼ぎ、多彩なアニメキャラフィギュアをアンロックしていきます。",
+        "収集したキャラを拠点に配置して自動で放置キャッシュを生み出し、より強力なツールを購入して高速破壊を行い、伝説級や隠しキャラを目指してスピンしましょう。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "henric 2"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "Place ID",
+          "value": "127519525950247"
+        },
+        {
+          "label": "ジャンル",
+          "value": "RNG / シミュレーター"
+        },
+        {
+          "label": "収録キャラ",
+          "value": "50種類以上"
+        },
+        {
+          "label": "基本システム",
+          "value": "ラッキーブロック"
+        }
+      ],
+      "cta": "Robloxでプレイ"
+    },
+    "explore": {
+      "title": "ゲームシステム＆カテゴリ別ガイド",
+      "description": "ゲームシステムごとに整理されたガイドでBreak For Animeの魅力を余すことなく攻略。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "breakforanime 初心者攻略ガイド",
+          "description": "初めてプレイする方に向けた丁寧なステップバイステップ攻略ガイド。",
+          "href": "/guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "step": 1,
+              "title": "基本サイクル",
+              "desc": "ブロックを壊してお金を稼ぐ。"
+            },
+            {
+              "step": 2,
+              "title": "キャラ収集",
+              "desc": "レアなアニメキャラを解放。"
+            },
+            {
+              "step": 3,
+              "title": "フィギュア配置",
+              "desc": "拠点で自動収入を発生させる。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "breakforanime ギフトコードまとめ",
+          "description": "無料報酬やラッキースピンが手に入る有効コードの最新一覧。",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "code": "RELEASE",
+              "reward": "初期無料キャッシュ"
+            },
+            {
+              "code": "ANIME",
+              "reward": "無料ラッキースピン"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "breakforanime ブロックシステム解説",
+          "description": "ブロックの種類、硬さ、破壊時にもらえるドロップ報酬の詳細解説。",
+          "href": "/mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Basic",
+              "detail": "初期報酬が得られる基本ブロック。"
+            },
+            {
+              "label": "Golden",
+              "detail": "レアキャラ出現確率が上昇したブロック。"
+            },
+            {
+              "label": "Diamond",
+              "detail": "大量のキャッシュと伝説キャラを狙えるブロック。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "breakforanime 進行＆転生システム",
+          "description": "長期的な進行、転生システム、上位エリアの解放条件まとめ。",
+          "href": "/progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "step": 1,
+              "title": "ツール強化",
+              "desc": "ブロック破壊スピードをアップ。"
+            },
+            {
+              "step": 2,
+              "title": "拠点拡張",
+              "desc": "同時に置けるキャラ数を増加。"
+            },
+            {
+              "step": 3,
+              "title": "転生リバース",
+              "desc": "永続倍率を獲得して大躍進。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "breakforanime アニメキャラ図鑑",
+          "description": "全キャラクター一覧、レア度、キャッシュ倍率の詳細データベース。",
+          "href": "/characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "tier": "Secret",
+              "info": "最高峰の放置収入倍率を持つ隠しキャラ。"
+            },
+            {
+              "tier": "Legendary",
+              "info": "非常に高いお金を生み出す伝説キャラ。"
+            },
+            {
+              "tier": "Epic",
+              "info": "中盤の攻略を大幅に支える優秀なキャラ。"
+            },
+            {
+              "tier": "Common",
+              "info": "序盤の拠点作りに役立つ基本キャラ。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "breakforanime ツール＆武器一覧",
+          "description": "ブロック破壊ツールの性能、購入価格、秒間ダメージの完全まとめ。",
+          "href": "/mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wooden",
+              "detail": "初期装備の基本ツール。"
+            },
+            {
+              "label": "Iron",
+              "detail": "通常ブロックの破壊速度が向上。"
+            },
+            {
+              "label": "Diamond",
+              "detail": "金ブロックも素早く破壊可能。"
+            },
+            {
+              "label": "Laser",
+              "detail": "上位ブロックを一瞬で砕く強力ツール。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "breakforanime 攻略のコツ＆テクニック",
+          "description": "プレイ時間を最大限に活かし、効率よくリーダーボード上位を目指す戦略。",
+          "href": "/tips",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "step": 1,
+              "title": "放置稼ぎ",
+              "desc": "最高倍率キャラを拠点に並べて放置。"
+            },
+            {
+              "step": 2,
+              "title": "ツール優先",
+              "desc": "見た目よりツール性能強化を最優先。"
+            },
+            {
+              "step": 3,
+              "title": "幸運イベント",
+              "desc": "サーバーバフを活用してスピン。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "breakforanime お金稼ぎ完全攻略",
+          "description": "アクティブ・放置の両面から効率よく資産を増やす高度な稼ぎ方指南。",
+          "href": "/tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Active",
+              "detail": "最高位ツールでひたすらブロックを叩き続ける。"
+            },
+            {
+              "label": "Passive",
+              "detail": "拠点に高倍率キャラを隙間なく配置。"
+            },
+            {
+              "label": "Codes",
+              "detail": "配布コードを逃さず入力して資金を上乗せ。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Break For Anime よくある質問（FAQ）",
+      "description": "Roblox『Break For Anime』に関するよくある質問と回答を掲載しています。",
+      "items": [
+        {
+          "question": "Robloxの『Break For Anime』とはどんなゲームですか？",
+          "answer": "ラッキーブロックを壊してお金を稼ぎ、アニメキャラのフィギュアを入手して拠点に配置し、自動放置収入を増やしていくRobloxのシミュレーターゲームです。"
+        },
+        {
+          "question": "Break For Animeのコードはどこで入力できますか？",
+          "answer": "ゲーム画面内のコードアイコンまたは設定ボタンをクリックし、有効なコードを入力して「引き換え」を押すと即座に特典が受け取れます。"
+        },
+        {
+          "question": "Break For Animeで最速でお金を稼ぐにはどうすればいいですか？",
+          "answer": "まずツールを優先してアップグレードしてブロック破壊を加速させ、手に入れた高倍率のアニメキャラを拠点に配置して放置収入を最大化するのが最短ルートです。"
+        },
+        {
+          "question": "レアキャラやシークレットキャラはどうやって入手しますか？",
+          "answer": "上位ランクのラッキーブロックを破壊するか、イベント時の幸運スピン倍率やラッキーポーションを活用して引き当てます。"
+        },
+        {
+          "question": "転生（リバース）するとどんなメリットがありますか？",
+          "answer": "所持金は一度リセットされますが、永続的な収益倍率ボーナスを獲得できるため、次周回以降の育成速度が格段に上がります。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Break For Anime の世界を制覇しよう",
+      "description": "全国のプレイヤーと一緒にラッキーブロックを破壊し、伝説のアニメキャラを集めましょう。",
+      "primary": "Robloxでプレイ",
+      "secondary": "有効コードを確認"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "全コードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在このカテゴリに利用可能なガイドはありません。"
+  },
+  "footer": {
+    "aboutTitle": "Break For Anime Wiki",
+    "about": "Break For Anime Wikiは、ラッキーブロック、アニメキャラ、RNGシステム、ツール、お金稼ぎの戦略を網羅するファン作成の独立系総合攻略ハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "規約・方針",
+    "copyright": "2026 Break For Anime Wiki. Not affiliated with henric 2 or Roblox.",
+    "description": "Robloxアニメ・ラッキーブロックRNGシミュレーター。ブロックを壊してレアアニメを集め、お金を稼ごう。",
+    "playGame": "Break For Anime をプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "ゲームガイド",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "アニメキャラ一覧",
+    "bossGuides": "ツール＆アップグレード",
+    "buildGuide": "RNG攻略ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Break For Anime 初心者攻略ガイド＆チュートリアル",
+    "overviewDescription": "Roblox『Break For Anime』の初心者ガイド、お金の稼ぎ方、最初のキャラ獲得手順をわかりやすく解説。"
+  },
+  "mechanics": {
+    "overviewTitle": "Break For Anime ゲームシステム＆ブロック解説",
+    "overviewDescription": "ラッキーブロックの種類、破壊速度、ツール強化、キャラクター配置などの中核システムを完全網羅。"
+  },
+  "progression": {
+    "overviewTitle": "Break For Anime 進行・転生＆キャラ収集ガイド",
+    "overviewDescription": "拠点の拡張方法、レア・シークレットキャラの解放、効率的な転生サイクルなど長期的な育成戦略まとめ。"
+  },
+  "codes": {
+    "overviewTitle": "Break For Anime 最新有効コード＆無料特典一覧",
+    "overviewDescription": "最新の動作確認済みコード一覧。無料スピンやお小遣いを手に入れてスタートダッシュを決めよう。"
+  },
+  "characters": {
+    "overviewTitle": "Break For Anime アニメキャラクター＆フィギュア図鑑",
+    "overviewDescription": "ゲーム内に登場する全アニメキャラ、レアリティ、人気ヒロイン、伝説フィギュアの完全データベース。"
+  },
+  "tips": {
+    "overviewTitle": "Break For Anime 攻略のコツ＆効率稼ぎテクニック",
+    "overviewDescription": "放置収入の最大化、転生による爆速育成、幸運スピンを引くための実用的な攻略情報まとめ。"
+  }
+}
