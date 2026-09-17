@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Break For Anime Wiki",
+    "shortName": "Break For Anime",
+    "tagline": "Break Lucky Blocks, Anime RNG & Collection Guide",
+    "description": "Your ultimate guide to Break For Anime on Roblox! Explore active codes, lucky blocks, anime characters, RNG mechanics, tools, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Break For Anime Wiki - Codes, Anime & RNG Guide",
+      "description": "Break For Anime Wiki covers Roblox codes, anime characters, lucky blocks, RNG mechanics, upgrades, money farming, collections, and beginner tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Anime Lucky Block RNG Simulator",
+      "title": "Break For Anime Wiki",
+      "description": "Break Lucky Blocks to collect anime characters, place them to earn cash, upgrade your tools, expand your base, and complete a growing collection of rare anime.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "1.1M+ Total Visits",
+        "1.2K+ Players Online",
+        "55K+ Favorites",
+        "Roblox Anime RNG"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "Play on Roblox",
+      "secondaryCta": "Browse Guides",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -180,8 +180,8 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Break For Anime Wiki",
+      "description": "Master your anime collection on Roblox with essential progression guides, active codes, lucky blocks, and optimal upgrade strategies.",
       "modules": [
         {
           "order": 1,
@@ -342,16 +342,16 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Collect All Anime in Break For Anime?",
+      "description": "Break Lucky Blocks, unlock rare anime champions, earn cash, and build the ultimate anime collection with our up-to-date guides.",
+      "primary": "Play on Roblox",
+      "secondary": "Browse Guides"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Guides & Walkthrough | Break For Anime Wiki",
+      "description": "Complete guides for Break For Anime — all mechanics, lucky blocks, anime characters, tools, and progression walkthroughs."
     },
     "overviewTitle": "Bosses Overview",
     "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Break For Anime Wiki",
+    "about": "Break For Anime Wiki is an independent fan-built guide hub covering lucky blocks, anime characters, RNG mechanics, tools, cash farming, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Break For Anime Wiki. Not affiliated with henric 2 or Roblox.",
+    "description": "Anime Lucky Block RNG Simulator on Roblox. Break lucky blocks, collect rare anime, and earn cash.",
+    "playGame": "Play Break For Anime",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Game Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Anime Guide",
+    "bossGuides": "Tools & Upgrades",
+    "buildGuide": "RNG Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
